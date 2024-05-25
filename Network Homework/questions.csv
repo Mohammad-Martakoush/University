@@ -1,0 +1,21 @@
+question,answer
+What does 'UDP' stand for?,User Datagram Protocol
+Which device is used to connect different networks together?,Router
+What is the primary purpose of a DNS server?,To translate domain names to IP addresses
+What does 'FTP' stand for?,File Transfer Protocol
+Which layer of the OSI model is responsible for routing?,Network Layer
+What does 'BGP' stand for?,Border Gateway Protocol
+What is the main function of an IP address?,To identify a device on a network
+Which protocol is used for network management?,SNMP
+What does 'ICMP' stand for?,Internet Control Message Protocol
+Which type of network uses radio waves to transmit data?,Wireless Network
+What is the purpose of a network hub?,To connect multiple Ethernet devices together
+What does 'NAT' stand for?,Network Address Translation
+Which protocol is used to retrieve emails from a server?,IMAP
+What is the range of a Class C IP address?,192.0.0.0 to 223.255.255.255
+What does 'SSL' stand for?,Secure Sockets Layer
+Which layer of the OSI model is responsible for establishing/ managing/ and terminating connections?,Session Layer
+What does 'PoE' stand for?,Power over Ethernet
+Which protocol is used for secure file transfer?,SFTP
+What is the maximum data rate of a Gigabit Ethernet?,1 Gbps
+What does 'WAN' stand for?,Wide Area Network

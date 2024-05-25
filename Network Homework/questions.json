@@ -1,0 +1,82 @@
+[
+    {
+        "question": "What does 'UDP' stand for?",
+        "answer": "User Datagram Protocol"
+    },
+    {
+        "question": "Which device is used to connect different networks together?",
+        "answer": "Router"
+    },
+    {
+        "question": "What is the primary purpose of a DNS server?",
+        "answer": "To translate domain names to IP addresses"
+    },
+    {
+        "question": "What does 'FTP' stand for?",
+        "answer": "File Transfer Protocol"
+    },
+    {
+        "question": "Which layer of the OSI model is responsible for routing?",
+        "answer": "Network Layer"
+    },
+    {
+        "question": "What does 'BGP' stand for?",
+        "answer": "Border Gateway Protocol"
+    },
+    {
+        "question": "What is the main function of an IP address?",
+        "answer": "To identify a device on a network"
+    },
+    {
+        "question": "Which protocol is used for network management?",
+        "answer": "SNMP"
+    },
+    {
+        "question": "What does 'ICMP' stand for?",
+        "answer": "Internet Control Message Protocol"
+    },
+    {
+        "question": "Which type of network uses radio waves to transmit data?",
+        "answer": "Wireless Network"
+    },
+    {
+        "question": "What is the purpose of a network hub?",
+        "answer": "To connect multiple Ethernet devices together"
+    },
+    {
+        "question": "What does 'NAT' stand for?",
+        "answer": "Network Address Translation"
+    },
+    {
+        "question": "Which protocol is used to retrieve emails from a server?",
+        "answer": "IMAP"
+    },
+    {
+        "question": "What is the range of a Class C IP address?",
+        "answer": "192.0.0.0 to 223.255.255.255"
+    },
+    {
+        "question": "What does 'SSL' stand for?",
+        "answer": "Secure Sockets Layer"
+    },
+    {
+        "question": "Which layer of the OSI model is responsible for establishing, managing, and terminating connections?",
+        "answer": "Session Layer"
+    },
+    {
+        "question": "What does 'PoE' stand for?",
+        "answer": "Power over Ethernet"
+    },
+    {
+        "question": "Which protocol is used for secure file transfer?",
+        "answer": "SFTP"
+    },
+    {
+        "question": "What is the maximum data rate of a Gigabit Ethernet?",
+        "answer": "1 Gbps"
+    },
+    {
+        "question": "What does 'WAN' stand for?",
+        "answer": "Wide Area Network"
+    }
+]
